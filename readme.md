@@ -1,7 +1,7 @@
 # 🌐 Essilu
 
 ### 👋 Hi! I'm Ulysse! 
-I'm a 4th-year engineering student at EFREI Paris, passionate about coding since I was a little kid. My projects showcase my skills in various languages like Python 🐍, Java ☕, C, as well as web development languages such as HTML, CSS, and JavaScript. I've been creating online content for 10 years on platforms like YouTube, various forums, and social media. The internet has significantly shaped the individual I am today. I love exploring new technologies and finding creative ways to solve problems. Take a look at my projects and feel free to get in touch!
+I'm a 5th-year engineering student at EFREI Paris, passionate about coding since I was a little kid. My projects showcase my skills in various languages like Python 🐍, Java ☕, C, as well as web development languages such as HTML, CSS, and JavaScript. I've been creating online content for 10 years on platforms like YouTube, various forums, and social media. The internet has significantly shaped the individual I am today. I love exploring new technologies and finding creative ways to solve problems. Take a look at my projects and feel free to get in touch!
 
 
 ---
